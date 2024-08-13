@@ -35,3 +35,4 @@ app.get('/readallfiles', (req, res) => {
 app.listen(PORT, () => { //always listens the port 8000 checking for any api calls 
   console.log(`Server is running on port ${PORT}`);
 });
+

@@ -1,0 +1,6 @@
+Endpoints:
+
+write file : "/writefile"
+read files in folder: "/readallfiles"
+
+Last Commit hashID :4b751bb4d94caca8320411510a2d6ba6214cd692
